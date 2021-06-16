@@ -1,5 +1,7 @@
 # 吃豆人实验
 ## Introduction
+该仓库保存2018级人工智能实验。  
+
 所有改动均只在 `searchAgents.py` 和 `search.py`  
 
 **Version:** `0.1.9`  
